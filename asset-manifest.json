@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/haunted-house/static/css/main.42515671.css",
-    "main.js": "/haunted-house/static/js/main.9cfadfba.js",
-    "static/media/color.jpg": "/haunted-house/static/media/color.a6ea7ea683db3dbf1ae0.jpg",
-    "static/media/normal.jpg": "/haunted-house/static/media/normal.6d05b9fe50a09f055b9c.jpg",
-    "static/media/ambientOcclusion.jpg": "/haunted-house/static/media/ambientOcclusion.52d513d7caf817d0c9b1.jpg",
-    "static/media/roughness.jpg": "/haunted-house/static/media/roughness.c4167c276e23526bf787.jpg",
-    "static/media/height.jpg": "/haunted-house/static/media/height.855dc782cb9037740e6f.jpg",
-    "static/media/metalness.jpg": "/haunted-house/static/media/metalness.b55cd732e2813ae3c548.jpg",
-    "static/media/alpha.jpg": "/haunted-house/static/media/alpha.ba6b22be64ee46f5ce1a.jpg",
-    "index.html": "/haunted-house/index.html",
-    "main.42515671.css.map": "/haunted-house/static/css/main.42515671.css.map",
-    "main.9cfadfba.js.map": "/haunted-house/static/js/main.9cfadfba.js.map"
+    "main.css": "/react-haunted-house/static/css/main.42515671.css",
+    "main.js": "/react-haunted-house/static/js/main.615de1b9.js",
+    "static/media/color.jpg": "/react-haunted-house/static/media/color.a6ea7ea683db3dbf1ae0.jpg",
+    "static/media/normal.jpg": "/react-haunted-house/static/media/normal.6d05b9fe50a09f055b9c.jpg",
+    "static/media/ambientOcclusion.jpg": "/react-haunted-house/static/media/ambientOcclusion.52d513d7caf817d0c9b1.jpg",
+    "static/media/roughness.jpg": "/react-haunted-house/static/media/roughness.c4167c276e23526bf787.jpg",
+    "static/media/height.jpg": "/react-haunted-house/static/media/height.855dc782cb9037740e6f.jpg",
+    "static/media/metalness.jpg": "/react-haunted-house/static/media/metalness.b55cd732e2813ae3c548.jpg",
+    "static/media/alpha.jpg": "/react-haunted-house/static/media/alpha.ba6b22be64ee46f5ce1a.jpg",
+    "index.html": "/react-haunted-house/index.html",
+    "main.42515671.css.map": "/react-haunted-house/static/css/main.42515671.css.map",
+    "main.615de1b9.js.map": "/react-haunted-house/static/js/main.615de1b9.js.map"
   },
   "entrypoints": [
     "static/css/main.42515671.css",
-    "static/js/main.9cfadfba.js"
+    "static/js/main.615de1b9.js"
   ]
 }
