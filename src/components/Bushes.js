@@ -1,7 +1,7 @@
 import React from "react";
 import { Instance, Instances } from "@react-three/drei";
 
-export default function Bush(props) {
+export default function Bush() {
 	return (
 		<Instances>
 			<sphereGeometry geometry={[1, 16, 16]} attach="geometry" />
